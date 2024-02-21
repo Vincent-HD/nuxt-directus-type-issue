@@ -1,0 +1,11 @@
+{
+  "name": "directus",
+  "dependencies": {
+    "directus": "10.5.3",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "dev": "directus start",
+    "start": "directus start"
+  }
+}
